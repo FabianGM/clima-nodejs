@@ -14,4 +14,4 @@ Ejemplo
 
 
 ```
-![Alt text](./pictures/imagen1.png "imagen crear")
+![Alt text](pictures/imagen1.png "imagen crear")
