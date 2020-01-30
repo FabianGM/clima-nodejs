@@ -14,4 +14,4 @@ Ejemplo
 
 
 ```
-![Alt text](pictures/imagen1.png "imagen crear")
+<img src="https://github.com/FabianGM/clima-nodejs/blob/master/pictures/Imagen1.png" (url-to-image)   
