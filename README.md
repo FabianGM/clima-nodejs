@@ -16,4 +16,4 @@ Ejemplo
 ```
   
 
-<p align="center"> <img src="https://github.com/FabianGM/clima-nodejs/blob/master/pictures/Imagen1.png" width="400"/> </p>
+<p align="center"> <img src="https://github.com/FabianGM/clima-nodejs/blob/master/pictures/Imagen1.png" width="500" heigth="300"/> </p>
