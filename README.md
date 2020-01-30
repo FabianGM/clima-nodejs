@@ -14,4 +14,4 @@ Ejemplo
 
 
 ```
-<img src="https://github.com/FabianGM/clima-nodejs/blob/master/pictures/Imagen1.png" (url-to-image)   
+s<img src="https://github.com/FabianGM/clima-nodejs/blob/master/pictures/Imagen1.png" width="350"/>  
